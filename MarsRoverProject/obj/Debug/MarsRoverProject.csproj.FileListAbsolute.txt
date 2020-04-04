@@ -1,0 +1,12 @@
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.exe.config
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.exe
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.pdb
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.Lib.dll
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.Model.dll
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.Service.dll
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.Lib.pdb
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.Model.pdb
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.Service.pdb
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.csprojResolveAssemblyReference.cache
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.exe
+c:\users\mesut.sari\documents\visual studio 2015\Projects\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.pdb
